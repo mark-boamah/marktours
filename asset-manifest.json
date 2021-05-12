@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-toeristen-mmt/static/css/main.cf664d21.chunk.css",
-  "main.js": "/react-toeristen-mmt/static/js/main.16d2f1cc.chunk.js",
-  "main.js.map": "/react-toeristen-mmt/static/js/main.16d2f1cc.chunk.js.map",
-  "static/css/1.7006bc05.chunk.css": "/react-toeristen-mmt/static/css/1.7006bc05.chunk.css",
-  "static/js/1.18ec97c5.chunk.js": "/react-toeristen-mmt/static/js/1.18ec97c5.chunk.js",
-  "static/js/1.18ec97c5.chunk.js.map": "/react-toeristen-mmt/static/js/1.18ec97c5.chunk.js.map",
-  "runtime~main.js": "/react-toeristen-mmt/static/js/runtime~main.7493d37a.js",
-  "runtime~main.js.map": "/react-toeristen-mmt/static/js/runtime~main.7493d37a.js.map",
-  "static/css/1.7006bc05.chunk.css.map": "/react-toeristen-mmt/static/css/1.7006bc05.chunk.css.map",
-  "static/css/main.cf664d21.chunk.css.map": "/react-toeristen-mmt/static/css/main.cf664d21.chunk.css.map",
-  "index.html": "/react-toeristen-mmt/index.html",
-  "precache-manifest.600dc2afa4156252087b8fd14aa85fdf.js": "/react-toeristen-mmt/precache-manifest.600dc2afa4156252087b8fd14aa85fdf.js",
-  "service-worker.js": "/react-toeristen-mmt/service-worker.js"
+  "main.css": "/marktours/static/css/main.cf664d21.chunk.css",
+  "main.js": "/marktours/static/js/main.16d2f1cc.chunk.js",
+  "main.js.map": "/marktours/static/js/main.16d2f1cc.chunk.js.map",
+  "static/css/1.7006bc05.chunk.css": "/marktours/static/css/1.7006bc05.chunk.css",
+  "static/js/1.236f7dee.chunk.js": "/marktours/static/js/1.236f7dee.chunk.js",
+  "static/js/1.236f7dee.chunk.js.map": "/marktours/static/js/1.236f7dee.chunk.js.map",
+  "runtime~main.js": "/marktours/static/js/runtime~main.0566c438.js",
+  "runtime~main.js.map": "/marktours/static/js/runtime~main.0566c438.js.map",
+  "static/css/1.7006bc05.chunk.css.map": "/marktours/static/css/1.7006bc05.chunk.css.map",
+  "static/css/main.cf664d21.chunk.css.map": "/marktours/static/css/main.cf664d21.chunk.css.map",
+  "index.html": "/marktours/index.html",
+  "precache-manifest.3d25b128d35da064b9ac31879d1c4a9e.js": "/marktours/precache-manifest.3d25b128d35da064b9ac31879d1c4a9e.js",
+  "service-worker.js": "/marktours/service-worker.js"
 }

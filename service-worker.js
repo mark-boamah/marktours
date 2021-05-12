@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-toeristen-mmt/precache-manifest.600dc2afa4156252087b8fd14aa85fdf.js"
+  "/marktours/precache-manifest.3d25b128d35da064b9ac31879d1c4a9e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-toeristen-mmt/index.html", {
+workbox.routing.registerNavigationRoute("/marktours/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
