@@ -9,7 +9,7 @@ class Home extends Component {
         return (
         <div className="App">
             <header className="App-header">
-              <img src="marktours/images/mmt-logo.jpg" className="App-logo" alt="logo moet maar tevreden" />
+              <img src="/images/mmt-logo.jpg" className="App-logo" alt="logo moet maar tevreden" />
               <p>
                 Moe maar tevreden
               </p>
