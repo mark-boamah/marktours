@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e7c2c7c5894ebb2b0f3e",
+    "revision": "16d2f1ccfc9c0ea610cc",
     "url": "/marktours/static/css/main.cf664d21.chunk.css"
   },
   {
-    "revision": "e7c2c7c5894ebb2b0f3e",
-    "url": "/marktours/static/js/main.e7c2c7c5.chunk.js"
+    "revision": "16d2f1ccfc9c0ea610cc",
+    "url": "/marktours/static/js/main.16d2f1cc.chunk.js"
   },
   {
     "revision": "236f7dee556e4c439e3e",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/marktours/static/js/runtime~main.0566c438.js"
   },
   {
-    "revision": "6ea925928f86523af67a2ad7d692ef93",
+    "revision": "d9b0323b57263e9982295012aff40456",
     "url": "/marktours/index.html"
   }
 ];
