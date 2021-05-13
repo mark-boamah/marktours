@@ -1,7 +1,7 @@
 {
   "main.css": "/marktours/static/css/main.cf664d21.chunk.css",
-  "main.js": "/marktours/static/js/main.adb579de.chunk.js",
-  "main.js.map": "/marktours/static/js/main.adb579de.chunk.js.map",
+  "main.js": "/marktours/static/js/main.e1b8ea69.chunk.js",
+  "main.js.map": "/marktours/static/js/main.e1b8ea69.chunk.js.map",
   "static/css/1.7006bc05.chunk.css": "/marktours/static/css/1.7006bc05.chunk.css",
   "static/js/1.236f7dee.chunk.js": "/marktours/static/js/1.236f7dee.chunk.js",
   "static/js/1.236f7dee.chunk.js.map": "/marktours/static/js/1.236f7dee.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/main.cf664d21.chunk.css.map": "/marktours/static/css/main.cf664d21.chunk.css.map",
   "static/css/1.7006bc05.chunk.css.map": "/marktours/static/css/1.7006bc05.chunk.css.map",
   "index.html": "/marktours/index.html",
-  "precache-manifest.e425ee956e8c8ff9576234b2c35b3a31.js": "/marktours/precache-manifest.e425ee956e8c8ff9576234b2c35b3a31.js",
+  "precache-manifest.be8ed05f39b2e98af85ae03cd6d6dc5d.js": "/marktours/precache-manifest.be8ed05f39b2e98af85ae03cd6d6dc5d.js",
   "service-worker.js": "/marktours/service-worker.js"
 }
