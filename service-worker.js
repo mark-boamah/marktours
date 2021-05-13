@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/marktours/precache-manifest.50ca380b7296e2e124c7dafdcbc1d458.js"
+  "/marktours/precache-manifest.fc709408ec73d598ab7cfdf8c232fed8.js"
 );
 
 workbox.clientsClaim();
